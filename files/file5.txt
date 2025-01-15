@@ -1,0 +1,65 @@
+    1  ls
+    2  pwd
+    3  ls - al
+    4  ls -al
+    5  cd.
+    6  cd .
+    7  pwd
+    8  cd ..
+    9  pwd
+   10  cd ..
+   11  pwd
+   12  cd workspaces
+   13  cd ds2002-xuk7sp/
+   14  cd ~
+   15  ls
+   16  ls -al
+   17  pwd
+   18  cd workspaces/ds2002-xuk7sp
+   19  cd
+   20  ls
+   21  cd /workspaces
+   22  cd ds2002-xuk7sp/
+   23  touch file1.txt
+   24  ls
+   25  ls -al
+   26  touch file2.txt
+   27  touch file3.txt
+   28  echo "a man a plan a canal panama"
+   29  echo "a man a plan a canal panama" > file1.txt
+   30  cat file1.txt
+   31  cat file1.txt > file2.txt
+   32  cat file1.txt > file3.txt
+   33  echo "this should be second line" >> file2.txt
+   34  cat file2.txt
+   35  cat /dev/null > file3.txt
+   36  ls - al
+   37  ls -al
+   38  mkdirfiles
+   39  mkdir files
+   40  mv file1.txt files/
+   41  touch file4.txt
+   42  touch file5.txt
+   43  cp file2.txt fil6.txt
+   44  cp file2.txt file7.txt
+   45  mv fil6.txt file6.txt
+   46  touch script.sh
+   47  touch myscript.py
+   48  run myscript.py 
+   49  mv file*.txt files/
+   50  rm files/file7.txt
+   51  cd ..
+   52  ls -al
+   53  cd ds2002-xuk7sp/
+   54  ls -al
+   55  top
+   56  ps
+   57  ps aux
+   58  cd files/
+   59  ps aux
+   60  ps aux > file6.txt
+   61  ls -al
+   62  head file6.txt
+   63  tail -n 2 file6.txt
+   64  clear
+   65  history > file5.txt
